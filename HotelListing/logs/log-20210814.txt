@@ -1,0 +1,79 @@
+2021-08-14 14:47:35.657 +07:00 [INF] Application is starting
+2021-08-14 14:47:41.928 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-14 14:47:41.935 +07:00 [INF] Hosting environment: Development
+2021-08-14 14:47:41.936 +07:00 [INF] Content root path: D:\Code\HotelListing\HotelListing
+2021-08-14 14:47:42.101 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger - -
+2021-08-14 14:47:42.260 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/index.html - -
+2021-08-14 14:47:42.322 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger - - - 301 - - 225.8305ms
+2021-08-14 14:47:42.584 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/index.html - - - 200 - text/html;charset=utf-8 324.4835ms
+2021-08-14 14:47:42.616 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/swagger-ui-bundle.js - -
+2021-08-14 14:47:42.616 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/swagger-ui.css - -
+2021-08-14 14:47:42.617 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/swagger-ui-standalone-preset.js - -
+2021-08-14 14:47:42.768 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-08-14 14:47:42.768 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-08-14 14:47:42.768 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-08-14 14:47:42.773 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/swagger-ui.css - - - 200 142933 text/css 156.1268ms
+2021-08-14 14:47:42.801 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 184.2704ms
+2021-08-14 14:47:42.822 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 205.9573ms
+2021-08-14 14:47:43.157 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/v1/swagger.json - -
+2021-08-14 14:47:43.283 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/favicon-32x32.png - -
+2021-08-14 14:47:43.285 +07:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-08-14 14:47:43.286 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/favicon-32x32.png - - - 200 628 image/png 3.2485ms
+2021-08-14 14:47:43.420 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 263.2908ms
+2021-08-14 14:56:59.738 +07:00 [INF] Application is starting
+2021-08-14 14:57:01.579 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-14 14:57:01.582 +07:00 [INF] Hosting environment: Development
+2021-08-14 14:57:01.592 +07:00 [INF] Content root path: D:\Code\HotelListing\HotelListing
+2021-08-14 14:57:01.623 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger - -
+2021-08-14 14:57:01.672 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/index.html - -
+2021-08-14 14:57:01.698 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger - - - 301 - - 76.8317ms
+2021-08-14 14:57:01.826 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/index.html - - - 200 - text/html;charset=utf-8 153.9766ms
+2021-08-14 14:57:01.831 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/swagger-ui-bundle.js - -
+2021-08-14 14:57:01.831 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/swagger-ui.css - -
+2021-08-14 14:57:01.832 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/swagger-ui-standalone-preset.js - -
+2021-08-14 14:57:01.874 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-08-14 14:57:01.874 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-08-14 14:57:01.874 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-08-14 14:57:01.876 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 43.7653ms
+2021-08-14 14:57:01.877 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/swagger-ui.css - - - 200 142933 text/css 45.4416ms
+2021-08-14 14:57:01.896 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 65.1286ms
+2021-08-14 14:57:58.526 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/index.html - -
+2021-08-14 14:57:58.535 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/index.html - - - 200 - text/html;charset=utf-8 8.7533ms
+2021-08-14 14:57:58.555 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/swagger-ui-standalone-preset.js - -
+2021-08-14 14:57:58.568 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-08-14 14:57:58.594 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 38.5924ms
+2021-08-14 14:57:58.713 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/v1/swagger.json - -
+2021-08-14 14:57:58.752 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/favicon-32x32.png - -
+2021-08-14 14:57:58.752 +07:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-08-14 14:57:58.753 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/favicon-32x32.png - - - 200 628 image/png 1.0539ms
+2021-08-14 14:57:58.804 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.9290ms
+2021-08-14 14:58:06.398 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/WeatherForecast - -
+2021-08-14 14:58:06.438 +07:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-08-14 14:58:06.475 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-08-14 14:58:06.481 +07:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-08-14 14:58:06.500 +07:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 20.7363ms
+2021-08-14 14:58:06.502 +07:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-08-14 14:58:06.502 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/WeatherForecast - - - 200 - application/json;+charset=utf-8 104.3334ms
+2021-08-14 14:58:10.500 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/WeatherForecast - -
+2021-08-14 14:58:10.501 +07:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-08-14 14:58:10.502 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-08-14 14:58:10.502 +07:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-08-14 14:58:10.503 +07:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 1.6761ms
+2021-08-14 14:58:10.504 +07:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-08-14 14:58:10.505 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/WeatherForecast - - - 200 - application/json;+charset=utf-8 4.9243ms
+2021-08-14 15:01:16.347 +07:00 [INF] Application is starting
+2021-08-14 15:01:18.008 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-14 15:01:18.011 +07:00 [INF] Hosting environment: Development
+2021-08-14 15:01:18.012 +07:00 [INF] Content root path: D:\Code\HotelListing\HotelListing
+2021-08-14 15:01:18.030 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/index.html - -
+2021-08-14 15:01:18.200 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/index.html - - - 200 - text/html;charset=utf-8 172.0687ms
+2021-08-14 15:01:18.327 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/swagger/v1/swagger.json - -
+2021-08-14 15:01:18.411 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 83.9276ms
+2021-08-14 15:01:27.730 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44346/WeatherForecast - -
+2021-08-14 15:01:27.763 +07:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-08-14 15:01:27.783 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-08-14 15:01:27.784 +07:00 [INF] Accessed Weather Forcast
+2021-08-14 15:01:27.790 +07:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-08-14 15:01:27.804 +07:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 16.4371ms
+2021-08-14 15:01:27.805 +07:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-08-14 15:01:27.811 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44346/WeatherForecast - - - 200 - application/json;+charset=utf-8 74.8223ms
